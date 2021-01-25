@@ -22,8 +22,8 @@ title: Process Website
 email: idriss.dimson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the process website for my senior project. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://idrissdimson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: idrissdimson
 github_username:  idrissdimson
 
