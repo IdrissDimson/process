@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week 1"
+date:   2021-02-15 17:18:45 -0500
+categories: process
+---
+
+
+For this week I started working on expanding the ideas I had initially for this project. The 2D platformer would use keyboard controls, to be a closely aligned to flash games which I'm borrowing a lot of influence from. In additon, my current plan is to have 13 levels completed for the project. I think this number would be long enough to tell the story, while short enough to design out in a reasonable timeframe. As for the game platform, I'm still torn between two options. However, deciding the game engine platform shouldn't impact the first parts of this project which is low-fi designs/iterations of all the levels as well as iterating on the story and how the player interacts within the environment.
+
+I gave the protagonist a name: Remiro (there isn't any reasson why his name should be Remiro, it was a name I was saving to use for a game since I was 14 haha). Remiro's backstory at the moment is a young maan who wishes to acquire the Rod of Justice (this name is subject to change) to prove his worth as king. You the player follows Ramiro as he fights or evades the evil goblins on his way to obtaining the Rod. With the Rod, Ramiro is now king and the people rejoice. 
+
+Twenty years has passed and Ramiro has become a rather unpopular ruler. His people are angered and Ramiro is confused as to why, meanwhile he too is becoming tired of being King. Looking for answers as to why he decided to do this work in the first place, Ramiro travels back to where he came from to remind himself of why he enjoyed obtaining the Rod as well as discover how the kingdom has progressed since he became king.
+
+This overarching story serves to give a motivation for Remiro to obtain the Rod in the first place but incentive to return to the start of the game to relive his former glory of traversing the world to understand where he is currently and how he would like to spend the rest of his days as king.
+
+Interestingly enough, I found myself starting to reference *Megamind* this week while forming the backstory to this story. *Megamind* follows the classic hero/villian trope but shifts when the villian Megamind seemingly wins and is left confused as to what to do once he obtained the goal that he reached. The first half of my story follows a very similar path and I think I'll seek out the screenwriters of *Megamind's* script to further understand their motivations in the story.
+
+The timeskip I felt was important as it allows for me to switch up the controls for the game reasonably. Now that he's older, he wouldn't be able to clear the  kind of jumps young Remiro. But he also now has the Rod which should allow him to solve these puzzles with more creative measures. 
+
+My first draft of the project plan: https://docs.google.com/document/d/11T9dfJ1iqB5_P4XmgYFcbVaSS_JZTMEb-r5EydwwEtA/edit?usp=sharing
