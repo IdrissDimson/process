@@ -8,7 +8,7 @@ categories: process
 
 For this week I started to make a plan on how I wanted to execute my game. I started a Milanote to allow for me to organize my ideas.
 
-https://app.milanote.com/1LegIX1pBLCnaV/project-plan
+<https://app.milanote.com/1LegIX1pBLCnaV/project-plan>
 
 I decided that the platform that I would make my game in was Unity2D. The original platform that I wanted to make the game in (GameMaker) would've been too expensive for me to export my game. The tradeoff with using Unity2D would be me relearning how to use the platform/using C# language to code. 
 
