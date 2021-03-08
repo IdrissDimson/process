@@ -15,4 +15,4 @@ I was also able to add in the beginnings of the townfolk within the game, under 
 For this week, I will need to add in the older second player as well as implement the save feature for both of those two characters to make that switch happen, as well as collect how many coins the player collected / how many enemies they destroyed.
 
 Link to video progress:
-<https://padlet-uploads.storage.googleapis.com/1050082008/9a2287c7d5a50ccb71113c3aa8f33f14/SeniorProject___Level3___PC__Mac___Linux_Standalone___Unity_2019_4_21f1__DX11__2021_03_08_10_43_43.mp4>
+[Video of Level 3](https://padlet-uploads.storage.googleapis.com/1050082008/9a2287c7d5a50ccb71113c3aa8f33f14/SeniorProject___Level3___PC__Mac___Linux_Standalone___Unity_2019_4_21f1__DX11__2021_03_08_10_43_43.mp4)
