@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week 5"
+date:   2021-03-07 17:18:45 -0500
+categories: process
+---
+
+
+This week, I was focused on getting the game to be slightly more polished and added the older player in. I fixed certain bugs that were plaguing the game such as the camera going out of focus in certain positions, as well as fixing the "wind" in the second to last level. 
+
+In addition, I was also able to get the beginnings of the player swap to work. I finally introduced the save mechanic to have the player switch characters to the older version. In addition, I began to add the player mechanics to the older player. Currently, he's able to jump at half the height of the young player, but is able to increase mass to negate things like the wind blowing him up. However, I can tell that the current  mechanics of the older player is lacking and I would need to playtest the game out to people to hear their opinions on what would need to change. 
+
+I would also need to add the coin collection into the game, along with the HUD display to show how many the player collected as well as the current level they are on and other narrative enhancers. 
+
+To get the game ready for the prototype, I would need to finish the HUD display and have the narrative guides implemented within the game. I would also need to refine the ending that I currently have to complete the story of Remiro. Currently, the ending is bittersweet, as clearly Remiro can't change his past but he would be able to shape his future and he gives up his duties to travel the world. This may need to be workshopped a bit more but I  would be working on alternative endings and seeing how the playtesters respond to it.
+
+In addition, I'll want to begin to consider the artstyle direction I would want this game to go with. It still isn't a priority until the prototype is ready but it'll be something to consider while finishing up the mechanics/narrative. 
