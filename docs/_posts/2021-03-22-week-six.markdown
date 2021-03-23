@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Week 6"
+date:   2021-03-22 17:18:45 -0500
+categories: process
+---
+
+
+This week, I was not able to do much work with the Unity project since I had some midterm deadlines due for other classes.
+However, I spent the week working on how I want to narrative to be told within the game. I've decided on having the dialogue be similar to  *Getting Over It*
+and will just have myself recording all the dialouge to the game this week, while finalizing all the character abilities this week  as well.
+
+In addition, I will be creating a mood board for the style in the game.
