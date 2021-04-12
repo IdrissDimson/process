@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 9"
+date:   2021-04-12 17:18:45 -0500
+categories: process
+---
+
+After discussions within both my midterm group as well as other gamers, I've decided to focus the narration specifically to just interactions between the enemies as well as brief exposition in the beginning of level to disclose the objective of each level. In addition, I wanted to provide an ending monologue to the sotry to wrap up the narrative within the story.
+
+In addition after hearing comments about similarities of the story by other people, I've realized that the beginning part of the story is pretty similar to the story of King Arther so I've decicded the new pitch to describe my game as "a retelling of the King Arther story, with a twist" to make the plot easier to understand as most people are familar with the King Arther story and being able to communicate that allows for exposition in the beginning of the game to be minimal to allow the player to focus more on gameplay/mechanics.
+
+To prepare the game for the final demo, there's certain things that need to get done this week. I'm continuing to work on the low-fi designs for the two main characters and plan to have that done within the next few weeks. For this week, I'll need to prioritize working on smoothing the animations for the Unity scenes. In addition to that, I'll need to implement a way to communicate a time jump within the story. I've decided on a similar title card from _Avengers: Endgame_ where the screen fades to black and the text fades in to read "40 Years Later". I was unable to find a clip of the scene I'm referring to but I hope to have that done this week. An alternative idea I had was to have a timelapse within the Unity game, but I would not be able to accomplish this in the time left.
+
+This week, I would alos like to gain feedback back from the playtesters to see if the mechanics need to be tweaked or if anything didn't make any sense while playing. Would also like to test to see if a shooting mechanic for the player would be necessary.
